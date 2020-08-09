@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="texto_grados">23°C</string>
+    <string name="texto_ciudad">Ciudad de México</string>
+    <string name="texto_estatus">Soleado</string>
+
+    <string name="texto_bienvenida">Bienvenido al Clima, para poder ver el clima de una ciudad selecciona la opcion de abajo</string>
+    <string name="texto_boton_mexico">Ciudad de México</string>
+    <string name="texto_boton_liverpool">Liverpool</string>
+</resources>
