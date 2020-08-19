@@ -19,14 +19,14 @@ class Ciudades : AppCompatActivity() {
         bMexico.setOnClickListener(View.OnClickListener {
             //Toast.makeText(this,"Ciudad de México", Toast.LENGTH_SHORT).show()
             val intent = Intent(this,MainActivity::class.java)
-            intent.putExtra(TAG,"mexico")
+            intent.putExtra(TAG,"3530597")
             startActivity(intent)
         })
 
         bLiverpool.setOnClickListener(View.OnClickListener {
             //Toast.makeText(this, "Ciudad de Liverpool", Toast.LENGTH_SHORT).show()
             val intent = Intent(this, MainActivity::class.java)
-            intent.putExtra(TAG,"liverpool")
+            intent.putExtra(TAG,"2644210")
             startActivity(intent)
         })
     }
